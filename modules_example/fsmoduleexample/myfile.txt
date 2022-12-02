@@ -1,0 +1,4 @@
+this file would be read by nodejs
+this would be written to the file async
+this would be written to the file async
+this would be written to the file

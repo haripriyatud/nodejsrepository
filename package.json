@@ -1,0 +1,24 @@
+{
+  "name": "nodejsrepository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.intro.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haripriyatud/nodejsrepository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haripriyatud/nodejsrepository/issues"
+  },
+  "homepage": "https://github.com/haripriyatud/nodejsrepository#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
